@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace GridifyInDotNet.Models
 {
     public class BookContext : DbContext
